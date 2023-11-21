@@ -9,6 +9,7 @@ flash = 1
 R = 255
 G = 255
 B = 255
+variable = True
 #loop = 0
 
 #Initialize Screen
